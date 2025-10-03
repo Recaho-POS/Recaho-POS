@@ -9,18 +9,18 @@
 
 ### Recaho POS serves the complete Food & Beverage ecosystem: 
 
-Restaurants: Fine Dining, Casual Dining, Quick Service Restaurants (QSRs) 
+1. Restaurants: Fine Dining, Casual Dining, Quick Service Restaurants (QSRs) 
 
-Bars, Clubs & Breweries – high-volume multi-counter billing 
+2. Bars, Clubs & Breweries – high-volume multi-counter billing 
 
-Cafés & Bakeries – simplified billing, loyalty programs, and repeat orders 
+3. Cafés & Bakeries – simplified billing, loyalty programs, and repeat orders
 
-Food Trucks & Kiosks – mobile POS billing system with integrated payments 
+4. Food Trucks & Kiosks – mobile POS billing system with integrated payments 
 
-Cloud Kitchens – recipe control, aggregator integration, and kitchen efficiency 
+5. Cloud Kitchens – recipe control, aggregator integration, and kitchen efficiency 
 
-Franchise & Multi-Outlet Chains – central reporting, inventory, and warehouse management 
+6. Franchise & Multi-Outlet Chains – central reporting, inventory, and warehouse management 
 
-Canteens & Food Courts – prepaid card and token-based systems 
+7. Canteens & Food Courts – prepaid card and token-based systems 
 
-Retail & Specialty Stores – sweets, ice-cream parlors, and niche outlets needing restaurant billing software 
+8. Retail & Specialty Stores – sweets, ice-cream parlors, and niche outlets needing restaurant billing software 
